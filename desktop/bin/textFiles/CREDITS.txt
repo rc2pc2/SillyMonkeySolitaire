@@ -1,0 +1,38 @@
+CREDITS FILE BY RICCIARDINO - SILLY MONKEY SOLITAIRE SOFTWARE - SEE ALSO LICENSE.txt
+
+//////////////////////////////////////CREDITS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+************* ALL THESE CONTETS ARE PROPERTY OF THE RESPECTIVE OWNERS **************
+
+====================================================================================
+
+1. BABELNET LOGO BEHIND CARDS: 
+	
+
+	"[...]
+	BabelNet is an output of the MultiJEDI ERC Starting Grant No. 259234. 
+	Concept and application by Roberto Navigli. BabelNet and its API are licensed 
+	under a Creative Commons Attribution-Non Commercial-Share Alike 3.0 License. 
+	For any commercial use, please contact us. 
+	[...]"
+
+	Further informations at babelnet.org
+
+====================================================================================
+
+2. BACKGROUNDS AND OTHER PICTURES
+
+	Check https://www.flickr.com/, CC-BY section.
+
+====================================================================================
+
+3. MUSIC AT FREEMUSICARCHIVE.ORG
+
+	ET by Kopeika
+	licensed under Attribution-NonCommercial-ShareAlike 3.0 International License.
+	For further informations check this link:
+	http://freemusicarchive.org
+
+====================================================================================
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\END OF CREDITS///////////////////////////////////
