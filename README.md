@@ -15,4 +15,6 @@ The game is entirely done from scratch with LibGDX in Java, and it runs on the f
 - Windows Desktop
 - MacOSX
 
-It's entirely done by me: Riccardo Petricca and it's protected under GPL License.
+It's entirely done by me: Riccardo Petricca.
+
+SILLY MONKEY SOLITAIRE is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
