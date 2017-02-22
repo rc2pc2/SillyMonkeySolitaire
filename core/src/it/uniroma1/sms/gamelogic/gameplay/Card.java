@@ -1,9 +1,9 @@
 /*************************************************************************************
- * Copyright (c) 2014 - 2014, Ricciardino (Riccardo Petricca)
+ * Copyright (c) 2014 - 2017, Ricciardino (Riccardo Petricca)
  * 
  * This software is licensed under CC-BY-NC-SA license,
- * feel free to see my personal blog site at http://www.petriccarcc.com , 
- * or to fork my project at https://github.com/Ricciardino
+ * feel free to see my personal blog site at http://www.riccardopetricca.com , 
+ * or to fork my project at https://github.com/petriccarcc
  * see the LICENSE file or http://creativecommons.org/licenses/by-nc-sa/4.0/
  * for further informations and details.
  *
@@ -15,7 +15,7 @@ package it.uniroma1.sms.gamelogic.gameplay;
  * The enum of cards we need to play with, nothing more, nothing less.
  * 
  * @author  Ricciardino
- * @version 0.1, 5 August 2014
+ * @version 0.1
  *
  */
 public enum Card 	
