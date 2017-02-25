@@ -20,4 +20,5 @@ It's entirely done by me: Riccardo Petricca.
 
 SILLY MONKEY SOLITAIRE is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-Note: This project has been discontinued since the end of 2016 due to the closed babelnet.org servers for the specific GWAP use.
+Note: 
+This project has been discontinued by the end of 2016 due to the closed babelnet.org servers for the specific GWAP use.
