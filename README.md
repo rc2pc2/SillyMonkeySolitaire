@@ -1,7 +1,8 @@
 # Silly Monkey Solitaire
 
 Silly Monkey Solitaire is one of my first projects as multiple platform developer, back in 2014:
-it's basically a masked solitaire, which is in reality a Game With A Purpose (GWAP), done for the Semantic network of http://babelnet.org, which is founded by the ERC.
+
+it's basically a masked solitaire, which is in reality a Game With A Purpose (GWAP), done for the Semantic network of http://babelnet.org, which is founded by the European Research Council.
 
 ![Login Screen](https://github.com/PetriccaRcc/SillyMonkeySolitaire/blob/master/desktop/bin/bg/bg1280.png?raw=true)
 
